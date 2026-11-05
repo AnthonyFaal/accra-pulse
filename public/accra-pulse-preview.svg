@@ -1,0 +1,25 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">AccraPulse event discovery interface preview</title>
+  <desc id="description">A stylised preview of the AccraPulse event discovery web app.</desc>
+  <rect width="1200" height="630" fill="#141D29"/>
+  <circle cx="1020" cy="106" r="220" fill="#FF7954" opacity=".18"/>
+  <circle cx="1110" cy="70" r="155" stroke="#F3D46E" stroke-width="24"/>
+  <text x="75" y="84" fill="#F8F6EF" font-family="Arial, sans-serif" font-size="28" font-weight="700">accra<tspan fill="#FF7954">pulse</tspan></text>
+  <text x="75" y="184" fill="#AEB9C4" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3">THE CITY HAS PLANS</text>
+  <text x="75" y="292" fill="#F8F6EF" font-family="Georgia, serif" font-size="90">Find your next</text>
+  <text x="75" y="385" fill="#FF7954" font-family="Georgia, serif" font-size="90" font-style="italic">good thing.</text>
+  <text x="78" y="435" fill="#B2BAC2" font-family="Arial, sans-serif" font-size="20">A concept guide to the city’s best plans.</text>
+  <rect x="75" y="496" width="204" height="49" fill="#FF7954"/>
+  <text x="98" y="527" fill="#17212E" font-family="Arial, sans-serif" font-size="15" font-weight="700">EXPLORE EVENTS  →</text>
+  <g transform="translate(750 150) rotate(6)">
+    <rect width="295" height="345" fill="#E8C967"/>
+    <rect x="12" y="12" width="271" height="321" stroke="#17212E" stroke-opacity=".45"/>
+    <circle cx="242" cy="123" r="73" fill="#FA7955"/>
+    <path d="M-10 254C62 163 162 143 314 184" stroke="#233B53" stroke-width="26"/>
+    <path d="M-10 290C62 199 162 179 314 220" stroke="#F4EEE1" stroke-width="15"/>
+    <text x="27" y="45" fill="#17212E" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2">PULSE CHECK / 001</text>
+    <text x="27" y="250" fill="#17212E" font-family="Georgia, serif" font-size="69" font-weight="700">OUT</text>
+    <text x="27" y="303" fill="#17212E" font-family="Georgia, serif" font-size="69" font-weight="700">THERE.</text>
+  </g>
+  <text x="75" y="594" fill="#8D9AA6" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">ACCRA, GHANA  ·  LIVE MUSIC  ·  FOOD  ·  COMMUNITY</text>
+</svg>
